@@ -1,2 +1,3 @@
-# Hide node_modules folder
+# Hide node_modules and .sass-cache folder
 node_modules/
+.sass-cache/
